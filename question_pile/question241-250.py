@@ -25,7 +25,6 @@ while True:
 ret = os.getcwd()
 print(ret, type(ret))
 
-os.rename("C:/Users/hyunh/Desktop/before.txt", "C:/Users/hyunh/Desktop/after.txt")
 
 import numpy
 for i in numpy.arange(0, 5, 0.1):
